@@ -1,5 +1,11 @@
 ### Hi there 👋
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZePlQi4J7SsLN1PqFyvuaw?label=Shifttrr)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/Shifttrr?label=Shifttrr)
+
+![TEST](https://img.shields.io/badge/-TEST-blue)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kurikun.&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=kurikun.&redirect=true)
 <!--
 **shifttrr/shifttrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
